@@ -19,8 +19,12 @@ Horiseon requested the following accessibility standards be applied to the codeb
 - [x] Title elements are concise and descript
 
 ### Notes
-HTML
-- Notes about the HTML structure
+HTML Structure
+- `<nav>` contains the main company logo and navigation links
+- `<figure>` contains the main hero image
+- `<section>` contains the three main blocks of content: search engine optimization, online reputation management, and social media marketing
+- `<aside>` contains the three main benefits: lead generation, brand awareness, and cost management
+- `<footer>` contains the company information
 
 CSS
 - The CSS is linked using an external style sheet
