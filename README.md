@@ -26,4 +26,4 @@ CSS
 - The CSS is linked using an external style sheet
 
 ### Credits
-Refactored by @aflavors. Feel free to contact me!
+Refactored by @aflavors. Feel free to contact me! :v:
